@@ -8,7 +8,7 @@ Full-Stack Software Engineer based in Cape Town, South Africa. I design and buil
 
 - 🔭 I’m currently: building production services at NemesisNet and maintaining multiple live projects
 - 🌱 I’m focusing on: Spring Boot, Vue.js, Docker, self-hosted infrastructure, and scalable APIs
-- 📫 Reach me: realnemesisnet@gmail.com — [Website](https://forkmyfolio.nemesisnet.co.za/nemesis) — [LinkedIn](https://www.linkedin.com/in/peter-buckingham-65438757/)
+- 📫 Reach me: realnemesisnet@gmail.com — [Website](https://blog.nemesisnet.co.za) — [LinkedIn](https://www.linkedin.com/in/peter-buckingham-65438757/)
 
 ---
 
