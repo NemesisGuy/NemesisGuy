@@ -1,39 +1,56 @@
-<!-- Profile README template for GitHub user: NemesisGuy -->
+<!-- Profile README generated from Peter Buckingham's portfolio -->
 
-# Hi, I'm NemesisGuy 👋
+# Hi — I’m Peter Buckingham (NemesisGuy) 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NemesisGuy&color=0e75b6)](https://github.com/NemesisGuy)
 
-Software craftsman, builder of neat things, and perpetual tinkerer. I build fast, reliable, and elegant tools that solve real problems.
+Full-Stack Software Engineer based in Cape Town, South Africa. I design and build production-grade systems using Spring Boot, Vue.js, Docker, and modern DevOps practices. I run NemesisNet — a self-hosted engineering practice where I design, deploy, and maintain full-stack applications and infrastructure.
 
-- 🔭 I’m currently working on: [NemesisGuy/NemesisGuy](https://github.com/NemesisGuy/NemesisGuy)
-- 🌱 I’m learning: Advanced TypeScript, WebAssembly, and distributed systems
-- 👯 I’m open to collaborating on interesting OSS and portfolio projects
-- 📫 How to reach me: replace the contact placeholders below
+- 🔭 I’m currently: building production services at NemesisNet and maintaining multiple live projects
+- 🌱 I’m focusing on: Spring Boot, Vue.js, Docker, self-hosted infrastructure, and scalable APIs
+- 📫 Reach me: admin@forkmyfolio.com — [Website](https://forkmyfolio.nemesisnet.co.za/nemesis) — [LinkedIn](https://www.linkedin.com/in/peter-buckingham-65438757/)
 
 ---
 
 ## Tech & Tools
 
-**Languages:** JavaScript, TypeScript, Python, Go
+**Primary Languages & Platforms:** Java, Spring Boot, Vue.js, JavaScript, Python, MySQL
 
-**Frameworks / Tools:** React, Node.js, Deno, Next.js, Express, Docker, Git
+**DevOps / Infra:** Docker, Docker-Compose, Nginx, Cloudflare, ESXi, Home Lab, Linux
+
+**Tech Stack — Icons:**
+
+<p>
+	<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
+	<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
+	<img src="https://img.shields.io/badge/-Vue.js-42B883?logo=vue.js&logoColor=white" alt="Vue.js" />
+	<img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+	<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+	<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+	<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+	<img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="Nginx" />
+	<img src="https://img.shields.io/badge/-ESXi-0B5C94?logo=vmware&logoColor=white" alt="ESXi" />
+	<img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
 
 **Highlights:**
 
-- ⚡ Performance-minded engineering
-- 🧩 Clean, testable architecture
-- 🔒 Security-aware design
+- Production Spring Boot APIs and SPA frontends
+- Self-hosted infrastructure, monitoring and automation
+- DevOps, containerisation and secure deployments
 
 ---
 
 ## Featured Projects
 
-- [NemesisGuy/NemesisGuy](https://github.com/NemesisGuy/NemesisGuy) — Personal portfolio / profile project. (Update this short description to match the repo.)
-- [project-2-name](https://github.com/NemesisGuy/project-2-name) — Short one-line description of project 2.
-- [project-3-name](https://github.com/NemesisGuy/project-3-name) — Short one-line description of project 3.
-
-Tip: Replace the placeholder project links above with your best repos.
+- [On The Go Rentals](https://github.com/NemesisGuy/OnTheGoRentals) — Full‑stack car rental platform. Backend: Spring Boot; Frontend: Vue.js. Live demo: https://otgr.nemesisnet.co.za
+- [CodeCritical](https://github.com/NemesisGuy/CodeCritical) — Java code analysis tool for maintainability metrics.
+- [ForkMyFolio (frontend)](https://github.com/NemesisGuy/ForkMyFolio-frontend) — Portfolio frontend; backend services power ForkMyFolio. Live demo: https://forkmyfolio.nemesisnet.co.za
+- [Kokoro TTS Service](https://github.com/NemesisGuy/Kokoro_TTS_Service) — High-performance FastAPI TTS service with streaming and model downloader. Live demo: https://kokoro-gui.nemesisnet.co.za
+- [VibeType](https://github.com/NemesisGuy/Vibe-Type/tree/dev) — Voice-driven coding assistant using Whisper and local LLMs.
+- [SaveGuard](https://github.com/NemesisGuy/SaveGuard---Palworld-Preservation-Protocol-Django) — Django backup automation for Palworld game data.
+- [Bored Room Cafe](https://github.com/NemesisGuy/Bored-Room-Cafe) — Promo landing page (live demo available).
+- [nkassessments](https://nkassessments.nemesisnet.co.za) — Client-facing static portal deployed via Dockerized Nginx.
 
 ---
 
@@ -47,26 +64,17 @@ Tip: Replace the placeholder project links above with your best repos.
 
 ## Contact
 
-- **Email:** your.email@example.com  
-- **Twitter:** [@your_twitter](https://twitter.com/your_twitter)  
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-linkedin)  
-
-Replace the placeholders above with your real contact links.
-
----
-
-## How you can help me
-
-- ⭐ Star repos you like
-- 🐛 Open issues or PRs on projects you use
-- 🤝 Reach out for collaboration
+- **Email:** admin@forkmyfolio.com  
+- **Website:** https://forkmyfolio.nemesisnet.co.za/nemesis  
+- **LinkedIn:** https://www.linkedin.com/in/peter-buckingham-65438757/  
+- **GitHub:** https://github.com/NemesisGuy
 
 ---
 
-If you want, I can:
+If you want additional changes I can:
 
-- personalize this with your real name and photo
-- add a custom banner or animated GIF
-- pick and highlight 3-6 of your best repos with descriptions
+- add a headshot or banner image
+- embed live status badges (uptime, CI) for your services
+- tweak copy and order of featured projects
 
--- Edit and save README.md to publish on your profile. --
+-- Edit and save `README.md` to publish on your profile. --
