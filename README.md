@@ -8,7 +8,7 @@ Full-Stack Software Engineer based in Cape Town, South Africa. I design and buil
 
 - 🔭 I’m currently: building production services at NemesisNet and maintaining multiple live projects
 - 🌱 I’m focusing on: Spring Boot, Vue.js, Docker, self-hosted infrastructure, and scalable APIs
-- 📫 Reach me: admin@forkmyfolio.com — [Website](https://forkmyfolio.nemesisnet.co.za/nemesis) — [LinkedIn](https://www.linkedin.com/in/peter-buckingham-65438757/)
+- 📫 Reach me: realnemesisnet@gmail.com — [Website](https://forkmyfolio.nemesisnet.co.za/nemesis) — [LinkedIn](https://www.linkedin.com/in/peter-buckingham-65438757/)
 
 ---
 
@@ -64,17 +64,9 @@ Full-Stack Software Engineer based in Cape Town, South Africa. I design and buil
 
 ## Contact
 
-- **Email:** admin@forkmyfolio.com  
+- **Email:** realnemesisnet@gmail.com  
 - **Website:** https://forkmyfolio.nemesisnet.co.za/nemesis  
 - **LinkedIn:** https://www.linkedin.com/in/peter-buckingham-65438757/  
 - **GitHub:** https://github.com/NemesisGuy
 
 ---
-
-If you want additional changes I can:
-
-- add a headshot or banner image
-- embed live status badges (uptime, CI) for your services
-- tweak copy and order of featured projects
-
--- Edit and save `README.md` to publish on your profile. --
