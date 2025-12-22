@@ -1,0 +1,10 @@
+# Ignore the CV and any personal drafts
+PeterBuckingham-Portfolio-2025-12-22.md
+
+# Common OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio / VSCode
+.vscode/
