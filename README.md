@@ -66,7 +66,8 @@ Full-Stack Software Engineer based in Cape Town, South Africa. I design and buil
 ## Contact
 
 - **Email:** realnemesisnet@gmail.com  
-- **Website:** https://forkmyfolio.nemesisnet.co.za/nemesis  
+- **Blog:** https://blog.nemesisnet.co.za  
+- **Portfolio:** https://forkmyfolio.nemesisnet.co.za/nemesis  
 - **LinkedIn:** https://www.linkedin.com/in/peter-buckingham-65438757/  
 - **GitHub:** https://github.com/NemesisGuy
 
