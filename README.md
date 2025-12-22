@@ -43,6 +43,7 @@ Full-Stack Software Engineer based in Cape Town, South Africa. I design and buil
 
 ## Featured Projects
 
+- [Blog](https://blog.nemesisnet.co.za) — Technical articles, project updates, and deployment notes from NemesisNet.
 - [On The Go Rentals](https://github.com/NemesisGuy/OnTheGoRentals) — Full‑stack car rental platform. Backend: Spring Boot; Frontend: Vue.js. Live demo: https://otgr.nemesisnet.co.za
 - [CodeCritical](https://github.com/NemesisGuy/CodeCritical) — Java code analysis tool for maintainability metrics.
 - [ForkMyFolio (frontend)](https://github.com/NemesisGuy/ForkMyFolio-frontend) — Portfolio frontend; backend services power ForkMyFolio. Live demo: https://forkmyfolio.nemesisnet.co.za
