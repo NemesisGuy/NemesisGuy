@@ -57,13 +57,13 @@ Full-Stack Software Engineer based in Cape Town, South Africa. I design and buil
 
 ## GitHub Stats
 
-<!-- GitHub Readme Stats images can sometimes be blocked or rate-limited. Using Shields.io fallbacks for reliability. -->
+<!-- Using static Shields badges to avoid GitHub API rate-limits. If you want live stats, I can set up a GitHub Action to update these numbers periodically. -->
 
 <p>
-	<img src="https://img.shields.io/github/followers/NemesisGuy?label=Followers&style=social" alt="Followers" />
-	<img src="https://img.shields.io/github/stars/NemesisGuy?label=Stars&style=social" alt="Stars" />
-	<img src="https://img.shields.io/github/repo-size/NemesisGuy/NemesisGuy?label=Repo%20Size" alt="Repo size" />
-	<img src="https://img.shields.io/github/languages/top/NemesisGuy?label=Top%20Language" alt="Top language" />
+	<a href="https://github.com/NemesisGuy"><img src="https://img.shields.io/badge/GitHub-NemesisGuy-181717?logo=github" alt="GitHub profile" /></a>
+	<a href="https://github.com/NemesisGuy/NemesisGuy/stargazers"><img src="https://img.shields.io/badge/Star-NemesisGuy%2FNemesisGuy-ff69b4?logo=github" alt="Star repo" /></a>
+	<a href="https://github.com/NemesisGuy/NemesisGuy"><img src="https://img.shields.io/badge/Repo-NemesisGuy%2FNemesisGuy-0366d6?logo=github" alt="Repo" /></a>
+	<img src="https://img.shields.io/badge/Top%20Language-Java-007396" alt="Top language" />
 </p>
 
 ---
