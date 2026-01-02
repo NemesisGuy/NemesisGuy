@@ -57,9 +57,14 @@ Full-Stack Software Engineer based in Cape Town, South Africa. I design and buil
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NemesisGuy&layout=compact&langs_count=8)](https://github.com/NemesisGuy)
+<!-- GitHub Readme Stats images can sometimes be blocked or rate-limited. Using Shields.io fallbacks for reliability. -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=NemesisGuy&show_icons=true&theme=tokyonight)](https://github.com/NemesisGuy)
+<p>
+	<img src="https://img.shields.io/github/followers/NemesisGuy?label=Followers&style=social" alt="Followers" />
+	<img src="https://img.shields.io/github/stars/NemesisGuy?label=Stars&style=social" alt="Stars" />
+	<img src="https://img.shields.io/github/repo-size/NemesisGuy/NemesisGuy?label=Repo%20Size" alt="Repo size" />
+	<img src="https://img.shields.io/github/languages/top/NemesisGuy?label=Top%20Language" alt="Top language" />
+</p>
 
 ---
 
