@@ -3,8 +3,8 @@
 # Hi, I'm Peter Buckingham (NemesisGuy)
 
 Full-Stack Software Engineer based in Cape Town, South Africa. I design and build
-production-grade systems with Spring Boot, Vue.js and Docker, and run NemesisNet
-- a self-hosted engineering practice where I deploy and maintain full-stack
+production-grade systems with Spring Boot, Vue.js and Docker. I run NemesisNet,
+a self-hosted engineering practice where I deploy and maintain full-stack
 applications and the infrastructure behind them.
 
 - Building: production services at NemesisNet
